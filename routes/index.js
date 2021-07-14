@@ -146,7 +146,7 @@ function randomVerb(seed) {
   'trusts','helps','flows','milks','carves','records','strokes','blushes',
   'fancies','frames','twists','possesses','tickles','murders','increases',
   'appears','realizes','spots','bombs','gathers','bleaches','guards','observes',
-  'trembles','prints','grabs','chokes','deceives','embarrasses','entertains',
+  'trembles2','prints','grabs','chokes','deceives','embarrasses','entertains',
   'returns','raises','skis','films','likes','whispers','paints','groans','pats',
   'appreciates','hovers','telephones','rhymes','greases','folds','phones',
   'suggests','rushes','unites','notices','pines','reflects','ruins','avoids',
